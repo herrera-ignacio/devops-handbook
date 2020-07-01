@@ -14,7 +14,7 @@ As consequence, Development and Operations often _act like silos_, being two dis
 
 ## What is DevOps
 
-DevOps means to close Development and Operations gaps by aligning and incentives and sharing approaches for processes and tools, broaden the usage of Agile practices to Operations to foster collaboration and streamline the entire software delivery process in a holistic way.
+DevOps means to close Development and Operations gaps by aligning incentives and sharing approaches for processes and tools, broaden the usage of Agile practices to Operations to foster collaboration and streamline the entire software delivery process in a holistic way.
 
 > The fundamental bases for successful DevOps are a culture of trust and a feeling of fellowship, thus DevOps centers on the concepts of _sharing_, share ideas, issues, goals, and processes, tools and goals.
 
