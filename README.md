@@ -8,3 +8,7 @@ Curated knowledge about DevOps culture & practicies, Operations and Site Reliabi
 
 * [What is DevOps and Why](./intro/devops.md)
 * [Agile & DevOps](./intro/agile.md)
+* [Team Settings](./intro/team-settings.md)
+	* Traiditional team
+	* Agile team
+	* DevOps team
