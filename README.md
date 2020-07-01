@@ -12,3 +12,5 @@ Curated knowledge about DevOps culture & practicies, Operations and Site Reliabi
 	* Traiditional team
 	* Agile team
 	* DevOps team
+* [Resistance to change](./intro/resistance.md)
+* [Processes & Tools](./intro/processes-tools.md)
