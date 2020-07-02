@@ -17,7 +17,7 @@ Curated knowledge about DevOps culture & practicies, Operations and Site Reliabi
 * DevOps Building Blocks
 	* [Measurements and Metrics](./intro/blocks/metrics.md)
 	* [Improve Flow of Features](./intro/blocks/improve-flow.md)
-	* [Improve and Accelerate Delivery](./intro/blocks/improving-delivery.md)
+	* [Improve and Accelerate Delivery](./intro/blocks/improve-delivery.md)
 	* [Automation](./intro/blocks/automation.md)
 
 ### Measurements and Metrics
