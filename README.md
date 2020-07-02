@@ -14,3 +14,14 @@ Curated knowledge about DevOps culture & practicies, Operations and Site Reliabi
 	* DevOps team
 * [Resistance to change](./intro/resistance.md)
 * [Processes & Tools](./intro/processes-tools.md)
+* DevOps Building Blocks
+	* [Measurements and Metrics](./intro/blocks/metrics.md)
+	* [Improving Flow of Features](./intro/blocks/improving-flow.md)
+	* [Improve and Accelerate Delivery](./intro/blocks/improve-delivery.md)
+	* [Automation](./intro/blocks/automation.md)
+
+### Measurements and Metrics
+
+* Agile development
+	* [Definition of Done (DoD)](./metrics/agile/dod.md)
+	* [Qualify Changes](./metrics/agile/qualify-change.md)
